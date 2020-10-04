@@ -10,7 +10,7 @@ except ImportError:
 banner = """
 
  █████╗ ██╗  ██╗██████╗  Author : KingRenjazu
-██╔══██╗╚██╗██╔╝██╔══██╗ Team : ABB Official | lolcat
+██╔══██╗╚██╗██╔╝██╔══██╗ Team  : ABB Official
 ███████║ ╚███╔╝ ██║  ██║ Tools  : Deface 
 ██╔══██║ ██╔██╗ ██║  ██║ Github : https://github.com/KingRenjazu
 ██║  ██║██╔╝ ██╗██████╔╝ YouTube: Termux Tutorial
